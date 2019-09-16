@@ -1,0 +1,37 @@
+languageCode = "en-us"
+title = "Markus Shahi"
+baseurl = ""
+theme = "aerial"
+
+[params]
+  name = "Markus Shahi"
+  about = "Vocalist &nbsp;&bull;&nbsp; <font color='#FF0000'>Youtuber</font> &nbsp;&bull;&nbsp; Believes in God"
+  copyright = "Markus Shahi"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/markusmashee.shahi"
+
+[[params.social]]
+  medium = "Youtube"
+  icon = "youtube"
+  link = "https://www.youtube.com/channel/UClXQsR7GUhuAt9m4e8cCcJw"
+
+# [[params.social]]
+#   medium = "Twitter"
+#   icon = "twitter"
+#   link = "#"
+
+# [[params.social]]
+#   medium = "Github"
+#   icon = "github"
+#   link = "#"
+
+# [[params.social]]
+#   medium = "Email"
+#   icon = "envelope-o"
+#   link = "#"
