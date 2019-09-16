@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Markus Shahi"
-baseurl = ""
+baseurl = "/"
 theme = "aerial"
 
 [params]
